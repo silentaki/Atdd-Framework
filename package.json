@@ -1,0 +1,25 @@
+{
+  "name": "atdd_project",
+  "version": "1.0.0",
+  "description": "A E2E Test Automation Framework Powered by Protractor+Selenium+CucumberJS+Typescript for Fonteva Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silentaki/Atdd-Framework.git"
+  },
+  "author": "Akash Rawat",
+  "email": "akashrawat1289@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.0.2",
+    "protractor": "^5.4.1",
+    "protractor-cucumber-framework": "^6.1.1",
+    "selenium-standalone": "^6.15.4",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "webdriver-manager": "^12.1.0"
+  }
+}
